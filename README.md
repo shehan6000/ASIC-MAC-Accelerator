@@ -5,7 +5,9 @@ multiply-accumulate accelerator written in SystemVerilog, verified with
 simulation and formal checks, synthesized with Yosys, and taken through an
 OpenLane/OpenROAD physical-design flow on SKY130.
 
+<img width="1548" height="866" alt="Screenshot 2026-05-03 161417" src="https://github.com/user-attachments/assets/140c5b99-826a-4fc8-b78a-c6651e2d7073" />
 
+<img width="951" height="800" alt="Screenshot 2026-05-03 162519" src="https://github.com/user-attachments/assets/2cdd74a5-eecb-4755-aae2-b5d9d8fd93d4" />
 
 
 
