@@ -5,7 +5,11 @@ multiply-accumulate accelerator written in SystemVerilog, verified with
 simulation and formal checks, synthesized with Yosys, and taken through an
 OpenLane/OpenROAD physical-design flow on SKY130.
 
-![MAC accelerator layout](images/mac_accelerator_layout.png)
+
+
+
+
+
 
 ## What This Project Demonstrates
 
